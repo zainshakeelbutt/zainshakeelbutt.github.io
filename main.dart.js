@@ -21592,7 +21592,7 @@ kI:function kI(a){this.a=a},
 aY:function aY(a){this.a=a},
 ip:function ip(a){this.a=a},
 agf(a){var s=null,r=t.p
-return A.ahO(A.aJ().a,A.bc(A.a([A.CN(A.E1(A.a([new A.bp(B.kW,A.bc(A.a([B.Kf,A.aiq(s,s,new A.ad1(),s,B.Q6,B.Cc)],r),B.kH,B.R,B.h),s)],r),s),1)],r),B.i,B.R,B.h),B.IB,250)},
+return A.ahO(A.aJ().a,A.bc(A.a([A.CN(A.E1(A.a([new A.bp(B.kW,A.bc(A.a([B.Kf,A.aiq(s,s,new A.ad1(),s,B.PW,B.Cc)],r),B.kH,B.R,B.h),s)],r),s),1)],r),B.i,B.R,B.h),B.IB,250)},
 ad1:function ad1(){},
 acX:function acX(){},
 acY:function acY(){},
@@ -69050,10 +69050,10 @@ q=A.aJ()
 return A.e4(!1,!0,A.cc(p,A.iM(A.bz(this.c,p,p,p,A.eB(p,p,p,p,p,p,p,p,p,p,p,12,p,p,B.aJ,p,p,!0,p,p,p,p,p,p,p,p),p),p,p),B.q,p,p,new A.c0(q.r,p,new A.cL(s,s,s,s),r,p,p,B.ad),p,p,p,B.aI,p,p,p),p,!0,p,p,p,p,p,p,p,p,p,this.d,p,p,p,p)}}
 A.C6.prototype={
 H(a){var s=null,r=t.p
-return new A.bp(B.aI,A.pz(A.pE(B.cb,A.a([new A.d3(B.je,s,s,A.cc(s,new A.bp(new A.b_(30,0,0,0),A.bc(A.a([A.bz(u.J,s,s,s,A.eB(s,s,A.aJ().e,s,s,s,s,s,s,s,s,32,s,s,B.aJ,s,s,!0,s,s,s,s,s,s,s,s),B.Q),B.D,A.bz("<code> i build hybrid apps </code>",s,s,s,A.eB(s,s,A.aJ().e,s,s,s,s,s,s,s,s,18,B.hj,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.Q)],r),B.aF,B.R,B.h),s),B.q,s,s,B.jv,s,280,s,s,s,s,1/0),s),new A.d3(B.dW,s,s,A.c1("assets/zainshakeelcover.png",B.o,B.J,s,s,s),s)],r),B.aa,B.cA),290,1/0),s)}}
+return new A.bp(B.aI,A.pz(A.pE(B.cb,A.a([new A.d3(B.je,s,s,A.cc(s,new A.bp(new A.b_(30,0,0,0),A.bc(A.a([A.bz(u.J,s,s,s,A.eB(s,s,A.aJ().e,s,s,s,s,s,s,s,s,28,s,s,B.aJ,s,s,!0,s,s,s,s,s,s,s,s),B.Q),B.D,A.bz("<code> i build hybrid apps </code>",s,s,s,A.eB(s,s,A.aJ().e,s,s,s,s,s,s,s,s,18,B.hj,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.Q)],r),B.aF,B.R,B.h),s),B.q,s,s,B.jv,s,280,s,s,s,s,1/0),s),new A.d3(B.dW,s,s,A.c1("assets/zainshakeelcover.png",B.o,B.J,s,s,s),s)],r),B.aa,B.cA),290,1/0),s)}}
 A.Dq.prototype={
 H(a){var s=null
-return new A.bp(B.aI,A.cc(s,A.bc(A.a([new A.cK(5,A.bz(u.J,s,s,s,A.eB(s,s,A.aJ().e,s,s,s,s,s,s,s,s,26,s,s,B.aJ,s,s,!0,s,s,s,s,s,s,s,s),B.at),s),B.D,A.bz("<code> i build hybrid apps </code>",s,s,s,A.eB(s,s,A.aJ().e,s,s,s,s,s,s,s,s,16,B.hj,s,s,s,s,!0,s,s,s,s,s,s,s,s),s)],t.p),B.i,B.R,B.h),B.q,s,s,B.yb,s,250,s,s,s,s,1/0),s)}}
+return new A.bp(B.aI,A.cc(s,A.bc(A.a([new A.cK(5,A.bz(u.J,s,s,s,A.eB(s,s,A.aJ().e,s,s,s,s,s,s,s,s,22,s,s,B.aJ,s,s,!0,s,s,s,s,s,s,s,s),B.at),s),B.D,A.bz("<code> i build hybrid apps </code>",s,s,s,A.eB(s,s,A.aJ().e,s,s,s,s,s,s,s,s,16,B.hj,s,s,s,s,!0,s,s,s,s,s,s,s,s),s)],t.p),B.i,B.R,B.h),B.q,s,s,B.yb,s,250,s,s,s,s,1/0),s)}}
 A.kA.prototype={
 H(a){var s=null
 return new A.bp(B.bB,A.cc(s,A.bF(A.a([A.hV(this.d,s,s,s),B.Kd,A.bz(this.c,s,s,s,A.eB(s,s,s,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s)],t.p),B.i,B.R,B.h),B.q,s,s,s,s,s,s,s,s,s,s),s)}}
@@ -69085,7 +69085,7 @@ H(a){var s=null,r=A.aJ()
 return new A.bp(B.bB,A.cc(s,new A.bp(B.bB,A.bc(A.a([A.bz(this.d,2,B.t,s,B.aQ,s),B.D,A.bz(this.c,50,B.t,!0,B.a0,s),B.D],t.p),B.aF,B.r,B.h),s),B.q,s,s,new A.c0(r.r,s,s,s,s,s,B.ad),s,s,s,s,s,s,1/0),s)}}
 A.Hw.prototype={
 H(a){var s=null,r=t.p
-return new A.bp(B.aI,A.cc(s,A.bF(A.a([A.bc(A.a([A.bz(u.J,s,s,s,A.eB(s,s,A.aJ().e,s,s,s,s,s,s,s,s,26,s,s,B.aJ,s,s,!0,s,s,s,s,s,s,s,s),B.at),B.D,A.bz("<code> i build hybrid apps </code>",s,s,s,A.eB(s,s,A.aJ().e,s,s,s,s,s,s,s,s,16,B.hj,s,s,s,s,!0,s,s,s,s,s,s,s,s),s)],r),B.i,B.R,B.h),A.c1("assets/zainshakeelcover.png",B.o,B.J,s,s,s)],r),B.i,B.aA,B.h),B.q,s,s,B.jv,s,250,s,s,s,s,1/0),s)}}
+return new A.bp(B.aI,A.cc(s,A.bF(A.a([A.bc(A.a([A.bz(u.J,s,s,s,A.eB(s,s,A.aJ().e,s,s,s,s,s,s,s,s,20,s,s,B.aJ,s,s,!0,s,s,s,s,s,s,s,s),B.at),B.D,A.bz("<code> i build hybrid apps </code>",s,s,s,A.eB(s,s,A.aJ().e,s,s,s,s,s,s,s,s,16,B.hj,s,s,s,s,!0,s,s,s,s,s,s,s,s),s)],r),B.i,B.R,B.h),A.c1("assets/zainshakeelcover.png",B.o,B.J,s,s,s)],r),B.i,B.aA,B.h),B.q,s,s,B.jv,s,250,s,s,s,s,1/0),s)}}
 A.acU.prototype={
 $0(){return A.az3()},
 $S:0}
@@ -71464,18 +71464,18 @@ B.Qa=new A.ad("COMSATS Institute of Information\nTechnology, Lahore Campus",null
 B.D5=A.a(s([B.Q9,B.Qa]),t.p)
 B.kF=new A.dK(B.a5,B.r,B.h,B.i,null,B.L,null,B.D5,null)
 B.R=new A.oN(2,"center")
-B.PZ=new A.ad("School Name : ",null,B.aZ,B.Q,null,B.t,2,null)
+B.Q_=new A.ad("School Name : ",null,B.aZ,B.Q,null,B.t,2,null)
 B.Qs=new A.ad(u.m,null,B.a0,B.Q,null,B.t,4,null)
-B.EC=A.a(s([B.PZ,B.Qs]),t.p)
+B.EC=A.a(s([B.Q_,B.Qs]),t.p)
 B.Ay=new A.dK(B.a5,B.R,B.h,B.i,null,B.L,null,B.EC,null)
 B.E=new A.f9(null,10,null,null)
 B.PI=new A.ad("Collage Name : ",null,B.aZ,B.at,null,B.t,2,null)
-B.PY=new A.ad("Govt. Collage University Lahore",null,B.a0,B.at,null,B.t,4,null)
-B.Ej=A.a(s([B.PI,B.PY]),t.p)
+B.PZ=new A.ad("Govt. Collage University Lahore",null,B.a0,B.at,null,B.t,4,null)
+B.Ej=A.a(s([B.PI,B.PZ]),t.p)
 B.Ax=new A.dK(B.a5,B.R,B.h,B.i,null,B.L,null,B.Ej,null)
 B.fc=new A.ad("Degree : ",null,B.aZ,B.Q,null,B.t,2,null)
-B.Q5=new A.ad("Intermediate in Computer Sciences",null,B.a0,B.at,null,B.t,4,null)
-B.DT=A.a(s([B.fc,B.Q5]),t.p)
+B.Q6=new A.ad("Intermediate in Computer Sciences",null,B.a0,B.at,null,B.t,4,null)
+B.DT=A.a(s([B.fc,B.Q6]),t.p)
 B.AG=new A.dK(B.a5,B.R,B.h,B.i,null,B.L,null,B.DT,null)
 B.x1=new A.ad("Session : ",null,B.aZ,B.Q,null,B.t,2,null)
 B.PA=new A.ad("2008 - 2010",null,B.a0,B.Q,null,B.t,4,null)
@@ -71488,10 +71488,10 @@ B.PM=new A.ad("Govt. Collage University Lahore",null,B.a0,B.Q,null,B.t,4,null)
 B.Em=A.a(s([B.PE,B.PM]),t.p)
 B.AB=new A.dK(B.a5,B.R,B.h,B.i,null,B.L,null,B.Em,null)
 B.aR=new A.l(!0,null,null,null,null,null,null,B.aJ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Q_=new A.ad("School Name : ",null,B.aR,B.Q,null,B.t,2,null)
+B.Q0=new A.ad("School Name : ",null,B.aR,B.Q,null,B.t,2,null)
 B.ax=new A.l(!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Qt=new A.ad(u.m,null,B.ax,B.Q,null,B.t,4,null)
-B.ED=A.a(s([B.Q_,B.Qt]),t.p)
+B.ED=A.a(s([B.Q0,B.Qt]),t.p)
 B.Az=new A.dK(B.a5,B.R,B.h,B.i,null,B.L,null,B.ED,null)
 B.PS=new A.ad("Matriculation In Science",null,B.a0,B.Q,null,B.t,4,null)
 B.EA=A.a(s([B.fc,B.PS]),t.p)
@@ -71701,14 +71701,14 @@ B.C9=new A.cn(null,null,null,null,null,B.G,null,null)
 B.Ca=new A.cn(null,null,null,null,null,B.p,null,null)
 B.C8=new A.cn(24,0,400,0,48,B.p,1,null)
 B.la=new A.cn(null,null,null,null,null,B.k,null,null)
-B.C1=new A.dw(57926,"MaterialIcons",null,!1)
-B.lb=new A.kg(B.C1,null,null,null,null)
+B.C2=new A.dw(57926,"MaterialIcons",null,!1)
+B.lb=new A.kg(B.C2,null,null,null,null)
 B.C3=new A.dw(58727,"MaterialIcons",null,!1)
 B.Cb=new A.kg(B.C3,null,null,null,null)
-B.C2=new A.dw(58560,"MaterialIcons",null,!1)
-B.Cc=new A.kg(B.C2,null,null,null,null)
 B.C4=new A.dw(58751,"MaterialIcons",null,!1)
 B.lc=new A.kg(B.C4,null,null,null,null)
+B.C1=new A.dw(57857,"MaterialIcons",null,!1)
+B.Cc=new A.kg(B.C1,null,null,null,null)
 B.Cj=new A.ot(0,"repeat")
 B.Ck=new A.ot(1,"repeatX")
 B.Cl=new A.ot(2,"repeatY")
@@ -73041,8 +73041,8 @@ B.PK=new A.ad("Gujrat",null,null,null,null,null,null,null)
 B.DV=A.a(s([B.PR,B.PK]),t.p)
 B.IK=new A.d8(B.W,B.aw,B.h,B.i,null,B.L,null,B.DV,null)
 B.PC=new A.ad("Age:",null,B.aR,null,null,null,null,null)
-B.Q3=new A.ad("31",null,null,null,null,null,null,null)
-B.DY=A.a(s([B.PC,B.Q3]),t.p)
+B.Q4=new A.ad("31",null,null,null,null,null,null,null)
+B.DY=A.a(s([B.PC,B.Q4]),t.p)
 B.IM=new A.d8(B.W,B.aw,B.h,B.i,null,B.L,null,B.DY,null)
 B.Q8=new A.ad("Company : ",null,B.aZ,B.Q,null,B.t,2,null)
 B.PT=new A.ad("PTCL",null,B.a0,B.Q,null,B.t,2,null)
@@ -73560,13 +73560,13 @@ B.iK=new A.ad("Project Name :",null,B.aR,null,null,null,null,null)
 B.PL=new A.ad("Flutter Responsive Apps",null,B.a0,null,null,null,null,null)
 B.PP=new A.ad("English",null,B.aR,null,null,null,null,null)
 B.PU=new A.ad("Adobe Premier",null,B.a0,null,null,null,null,null)
-B.PW=new A.ad("Hindi",null,B.aR,null,null,null,null,null)
-B.PX=new A.ad("Adobe Audition",null,B.a0,null,null,null,null,null)
-B.Q0=new A.ad("zain.butt92@gmail.com",null,B.dM,null,null,null,null,null)
-B.Q1=new A.ad("Database | MySql | Sqlite",null,B.a0,null,null,null,null,null)
-B.Q2=new A.ad("Providers,\nState Management",null,B.a0,null,null,null,null,null)
-B.Q4=new A.ad("Android Native Apps",null,B.a0,null,null,null,null,null)
-B.Q6=new A.ad("View Resume",null,null,null,null,null,null,null)
+B.PW=new A.ad("Download Resume",null,null,null,null,null,null,null)
+B.PX=new A.ad("Hindi",null,B.aR,null,null,null,null,null)
+B.PY=new A.ad("Adobe Audition",null,B.a0,null,null,null,null,null)
+B.Q1=new A.ad("zain.butt92@gmail.com",null,B.dM,null,null,null,null,null)
+B.Q2=new A.ad("Database | MySql | Sqlite",null,B.a0,null,null,null,null,null)
+B.Q3=new A.ad("Providers,\nState Management",null,B.a0,null,null,null,null,null)
+B.Q5=new A.ad("Android Native Apps",null,B.a0,null,null,null,null,null)
 B.Q7=new A.ad("Adobe Photoshop",null,B.a0,null,null,null,null,null)
 B.iL=new A.ad("Project Short Description :",null,B.aR,null,null,null,null,null)
 B.Qg=new A.ad("Firebase",null,B.a0,null,null,null,null,null)
@@ -74311,13 +74311,13 @@ return q})
 r($,"aDo","r4",()=>A.aJ().a)
 r($,"aDn","aoY",()=>A.nC(null,A.aJ().a,null))
 r($,"aDp","adp",()=>{var q,p,o,n,m,l,k,j=null,i=1000,h=A.aJ(),g=A.aJ(),f=t.p
-g=A.h_(A.pz(A.bc(A.a([new A.Be(A.c1("assets/icon.png",B.o,B.J,j,j,j),g.d,60,j),B.D,B.Qq,B.Qj,B.Q0,B.PG,B.e8],f),B.i,B.r,B.h),j,1/0),j,B.Bs)
+g=A.h_(A.pz(A.bc(A.a([new A.Be(A.c1("assets/icon.png",B.o,B.J,j,j,j),g.d,60,j),B.D,B.Qq,B.Qj,B.Q1,B.PG,B.e8],f),B.i,B.r,B.h),j,1/0),j,B.Bs)
 q=A.aJ()
 q=A.bc(A.a([A.adJ(!0,i,A.aJ().f,B.kj,B.fZ,5,1,q.e,30),B.E,B.PP],f),B.i,B.r,B.h)
 p=A.aJ()
 p=A.bc(A.a([A.adJ(!0,i,A.aJ().f,B.kj,B.fZ,5,1,p.e,30),B.E,B.PH],f),B.i,B.r,B.h)
 o=A.aJ()
-o=A.bF(A.a([q,p,A.bc(A.a([A.adJ(!0,i,A.aJ().f,B.zw,B.fZ,5,0.95,o.e,30),B.E,B.PW],f),B.i,B.r,B.h)],f),B.i,B.aw,B.h)
+o=A.bF(A.a([q,p,A.bc(A.a([A.adJ(!0,i,A.aJ().f,B.zw,B.fZ,5,0.95,o.e,30),B.E,B.PX],f),B.i,B.r,B.h)],f),B.i,B.aw,B.h)
 p=A.aJ()
 p=A.bc(A.a([B.Hy,B.D,A.ud(!0,i,A.aJ().f,B.cw,8,0.9,p.e)],f),B.i,B.r,B.h)
 q=A.aJ()
@@ -74329,7 +74329,7 @@ m=A.bc(A.a([B.HB,B.D,A.ud(!0,i,A.aJ().f,B.cw,8,0.95,m.e)],f),B.i,B.r,B.h)
 l=A.aJ()
 l=A.bc(A.a([B.HA,B.D,A.ud(!0,i,A.aJ().f,B.cw,8,0.75,l.e)],f),B.i,B.r,B.h)
 k=A.aJ()
-k=A.CN(A.E1(A.a([A.h_(A.bc(A.a([B.IO,B.IK,B.IM,B.E,B.e8,o,B.e8,p,B.E,q,B.E,n,B.E,m,B.E,l,B.E,A.bc(A.a([B.Hz,B.D,A.ud(!0,i,A.aJ().f,B.cw,8,0.5,k.e)],f),B.i,B.r,B.h),B.E,B.e8,A.h_(A.bF(A.a([A.hV(B.bm,A.aJ().d,j,20),B.br,B.PL],f),B.i,B.r,B.h),j,B.bk),B.D,A.h_(A.bF(A.a([A.hV(B.bm,A.aJ().d,j,20),B.br,B.Q2],f),B.i,B.r,B.h),j,B.bk),B.D,A.h_(A.bF(A.a([A.hV(B.bm,A.aJ().d,j,20),B.br,B.Q4],f),B.i,B.r,B.h),j,B.bk),B.D,A.h_(A.bF(A.a([A.hV(B.bm,A.aJ().d,j,20),B.br,B.Qg],f),B.i,B.r,B.h),j,B.bk),B.D,A.h_(A.bF(A.a([A.hV(B.bm,A.aJ().d,j,20),B.br,B.Qh],f),B.i,B.r,B.h),j,B.bk),B.D,A.h_(A.bF(A.a([A.hV(B.bm,A.aJ().d,j,20),B.br,B.Q1],f),B.i,B.r,B.h),j,B.bk),B.D,A.h_(A.bF(A.a([A.hV(B.bm,A.aJ().d,j,20),B.br,B.Q7],f),B.i,B.r,B.h),j,B.bk),B.D,A.h_(A.bF(A.a([A.hV(B.bm,A.aJ().d,j,20),B.br,B.PU],f),B.i,B.r,B.h),j,B.bk),B.D,A.h_(A.bF(A.a([A.hV(B.bm,A.aJ().d,j,20),B.br,B.PX],f),B.i,B.r,B.h),j,B.bk)],f),B.i,B.r,B.h),j,B.Bv)],f),B.y7),1)
+k=A.CN(A.E1(A.a([A.h_(A.bc(A.a([B.IO,B.IK,B.IM,B.E,B.e8,o,B.e8,p,B.E,q,B.E,n,B.E,m,B.E,l,B.E,A.bc(A.a([B.Hz,B.D,A.ud(!0,i,A.aJ().f,B.cw,8,0.5,k.e)],f),B.i,B.r,B.h),B.E,B.e8,A.h_(A.bF(A.a([A.hV(B.bm,A.aJ().d,j,20),B.br,B.PL],f),B.i,B.r,B.h),j,B.bk),B.D,A.h_(A.bF(A.a([A.hV(B.bm,A.aJ().d,j,20),B.br,B.Q3],f),B.i,B.r,B.h),j,B.bk),B.D,A.h_(A.bF(A.a([A.hV(B.bm,A.aJ().d,j,20),B.br,B.Q5],f),B.i,B.r,B.h),j,B.bk),B.D,A.h_(A.bF(A.a([A.hV(B.bm,A.aJ().d,j,20),B.br,B.Qg],f),B.i,B.r,B.h),j,B.bk),B.D,A.h_(A.bF(A.a([A.hV(B.bm,A.aJ().d,j,20),B.br,B.Qh],f),B.i,B.r,B.h),j,B.bk),B.D,A.h_(A.bF(A.a([A.hV(B.bm,A.aJ().d,j,20),B.br,B.Q2],f),B.i,B.r,B.h),j,B.bk),B.D,A.h_(A.bF(A.a([A.hV(B.bm,A.aJ().d,j,20),B.br,B.Q7],f),B.i,B.r,B.h),j,B.bk),B.D,A.h_(A.bF(A.a([A.hV(B.bm,A.aJ().d,j,20),B.br,B.PU],f),B.i,B.r,B.h),j,B.bk),B.D,A.h_(A.bF(A.a([A.hV(B.bm,A.aJ().d,j,20),B.br,B.PY],f),B.i,B.r,B.h),j,B.bk)],f),B.i,B.r,B.h),j,B.Bv)],f),B.y7),1)
 l=A.aJ()
 return A.ahO(h.a,A.bc(A.a([B.Ke,g,k,B.A,A.cc(j,A.h_(A.bF(A.a([A.m0(j,A.CP(B.BU,A.aJ().d,18),new A.acX(),j,j),A.m0(j,A.CP(B.BY,A.aJ().d,18),new A.acY(),j,j),A.m0(j,A.CP(B.BX,A.aJ().d,18),new A.acZ(),j,j),A.m0(j,A.CP(B.BW,A.aJ().d,18),new A.ad_(),j,j),A.m0(j,A.CP(B.BV,A.aJ().d,18),new A.ad0(),j,j)],f),B.i,B.aw,B.h),j,B.kW),B.q,l.a,j,j,j,40,j,j,j,j,j)],f),B.i,B.r,B.h),j,j)})})();(function nativeSupport(){!function(){var s=function(a){var m={}
 m[a]=1
