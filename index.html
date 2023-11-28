@@ -14,6 +14,7 @@
     This is a placeholder for base href that will be replaced by the value of
     the `--base-href` argument provided to `flutter build`.
   -->
+  <base href="/">
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
@@ -22,18 +23,18 @@
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="zainshakeelofficial">
+  <meta name="apple-mobile-web-app-title" content="zainshakeel">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>zainshakeelofficial</title>
+  <title>zainshakeel</title>
   <link rel="manifest" href="manifest.json">
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "1382327885";
+    const serviceWorkerVersion = "3085627816";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -54,13 +55,10 @@
       });
     });
   </script>
-  <script src="//cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.min.js"></script>
-  <script type="text/javascript">
-   pdfjsLib.GlobalWorkerOptions.workerSrc = "//cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.worker.min.js";
-</script>
+
   <script type="module">
   // Import the functions you need from the SDKs you need
-  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.5.0/firebase-app.js";
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.6.0/firebase-app.js";
   // TODO: Add SDKs for Firebase products that you want to use
   // https://firebase.google.com/docs/web/setup#available-libraries
 
@@ -71,11 +69,15 @@
     projectId: "zainshakeel-portfolio-7e008",
     storageBucket: "zainshakeel-portfolio-7e008.appspot.com",
     messagingSenderId: "869374023429",
-    appId: "1:869374023429:web:364c9c9420c22f3ae8496c"
+    appId: "1:869374023429:web:4fec0f0d6023cb56e8496c"
   };
 
   // Initialize Firebase
   const app = initializeApp(firebaseConfig);
 </script>
+  <script>
+    window.flutterWebRenderer = "html";
+    </script>
+  <script src="https://www.gstatic.com/firebasejs/7.20.0/firebase-storage.js"></script>
 </body>
 </html>
